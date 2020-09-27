@@ -45,6 +45,8 @@ Here we are using a  pre-trained model or desired portion of the model can be in
 We are using a The InceptionV3 is the third iteration of the inception architecture, first developed for the GoogLeNet model.
 This model was developed by researchers at Google and described in the 2015 paper titled [Rethinking the Inception Architecture for Computer Vision.](https://arxiv.org/abs/1512.00567)
 
+In the training we have only limited data so that for getting high accuracy we are doing a Image Augmentation by rotating,shifting,shearing,zooming the images by certain values.
+
 ## Evaluating
 Training Accuracy and Validation Accuracy Curve 
 <img src=https://github.com/Monishraj50/Blood_Noblood/blob/master/img/acc.png width='350' height='350' />
