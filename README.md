@@ -19,7 +19,7 @@ The folders are as follows:
  > |--train_noblood <br/>
  
  | -val <br/>
- > |--val_blood <br/>  
+ > |--val_blood <br/>
  > |--val_noblood <br/>
 
 
