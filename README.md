@@ -31,7 +31,13 @@ If one of your image files is damaged, you can no longer open it. With a little 
 |<img src=https://github.com/Monishraj50/Blood_Noblood/blob/master/img/noblood_10.jpg width='250' height='250' />|
 <img src=https://github.com/Monishraj50/Blood_Noblood/blob/master/img/noblood_102.jpg width='250' height='250' />|
 
+## Training
+Here we are using a  pre-trained model or desired portion of the model can be integrated directly into a new neural network model. In this usage, the weights of the pre-trained can be frozen so that they are not updated as the new model is trained. Alternately, the weights may be updated during the training of the new model, perhaps with a lower learning rate, allowing the pre-trained model to act like a weight initialization scheme when training the new model.
 
+We are using a The InceptionV3 is the third iteration of the inception architecture, first developed for the GoogLeNet model.
+This model was developed by researchers at Google and described in the 2015 paper titled “Rethinking the Inception Architecture for Computer Vision.”[https://arxiv.org/abs/1512.00567]
+
+After trained we see that the accuracy curve 
 
 
 
