@@ -8,7 +8,7 @@ The folders are as follows:
 2. NoBlood : Faces not containing blood
 3. Faces: Contains cropped images of faces 
 ## Working with Dataset
-Images
+
  | -train
     |--train_blood
 
