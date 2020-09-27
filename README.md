@@ -25,13 +25,13 @@ If one of your image files is damaged, you can no longer open it. With a little 
 
 ## Preview of Dataset
 ## Faces with Blood
-<img src=https://github.com/Monishraj50/Blood_Noblood/blob/master/img/blood_1.jpg width='100' height='100' /) 
+<img src=https://github.com/Monishraj50/Blood_Noblood/blob/master/img/blood_1.jpg width='100' height='100' /> 
 
-<img src=https://github.com/Monishraj50/Blood_Noblood/blob/master/img/blood_100.jpg width='100' height='100' /) 
+<img src=https://github.com/Monishraj50/Blood_Noblood/blob/master/img/blood_100.jpg width='100' height='100' />
 ## Faces without blood
-<img src=https://github.com/Monishraj50/Blood_Noblood/blob/master/img/noblood_10.jpg width='100' height='100' /) 
+<img src=https://github.com/Monishraj50/Blood_Noblood/blob/master/img/noblood_10.jpg width='100' height='100' />
 
-<img src=https://github.com/Monishraj50/Blood_Noblood/blob/master/img/noblood_102.jpg width='100' height='100' /) 
+<img src=https://github.com/Monishraj50/Blood_Noblood/blob/master/img/noblood_102.jpg width='100' height='100' />
 
 
 
