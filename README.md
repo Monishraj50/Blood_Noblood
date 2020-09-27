@@ -1,4 +1,4 @@
-# Blood_Noblood
+# Blood_Noblood Detection
 Detecting the faces with Blood and faces without Blood.
 ## Dataset
 Download the dataset from the below link
