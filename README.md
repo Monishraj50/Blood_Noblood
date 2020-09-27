@@ -9,15 +9,15 @@ The folders are as follows:
 3. Faces: Contains cropped images of faces 
 ## Working with Dataset
 Images
-### -train
---train_blood
+### | -train
+ |--train_blood
 
---train_noblood
+ |--train_noblood
 
-### -val
---val_blood
+### | -val
+ |--val_blood
 
---val_noblood
+ |--val_noblood
 
 
 
