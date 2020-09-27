@@ -10,14 +10,14 @@ The folders are as follows:
 ## Working with Dataset
 Images
 ### | -train
-  _|--train_blood
+  _ |--train_blood
 
-  _|--train_noblood
+  _ |--train_noblood
 
 ### | -val
-  _|--val_blood
+  _ |--val_blood
 
-  _|--val_noblood
+  _ |--val_noblood
 
 
 
