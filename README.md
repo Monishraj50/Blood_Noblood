@@ -15,11 +15,15 @@ The folders are as follows:
 ## Working with Dataset
 
  | -train
+ 
    |--train_blood
+   
    |--train_noblood
 
  | -val
+ 
    |--val_blood
+   
    |--val_noblood
 
 
