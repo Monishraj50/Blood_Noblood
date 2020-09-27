@@ -49,6 +49,7 @@ In the training we have only limited data so that for getting high accuracy we a
 
 ## Evaluating
 Training Accuracy and Validation Accuracy Curve 
+
 <img src=https://github.com/Monishraj50/Blood_Noblood/blob/master/img/acc.png width='350' height='350' />
 
 
