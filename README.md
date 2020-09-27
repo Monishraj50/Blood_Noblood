@@ -18,7 +18,8 @@ The folders are as follows: <br/>
 1. Blood : Faces contaning blood <br/>
 2. NoBlood : Faces not containing blood <br/>
 3. Faces: Contains cropped images of faces <br/>
-## Working with Dataset
+## Data Preprocessing
+### Working with Dataset
 
  | -train <br/>
  > |--train_blood <br/>
@@ -28,15 +29,15 @@ The folders are as follows: <br/>
  > |--val_blood <br/>
  > |--val_noblood <br/>
  
-## Detecting the Corrupted Images
+### Detecting the Corrupted Images
 Image files can get corrupted when downloaded or imported from cameras and mobile devices. When an image is corrupted, we will not able to open that image.Recontruction
 If one of your image files is damaged, you can no longer open it. With a little luck, however, the JPG can be repaired.
 
-## Preview of Dataset
-## Faces with Blood
+### Preview of Dataset
+### Faces with Blood
 |<img src=https://github.com/Monishraj50/Blood_Noblood/blob/master/img/blood_1.jpg width='250' height='250' /> |
 <img src=https://github.com/Monishraj50/Blood_Noblood/blob/master/img/blood_100.jpg width='250' height='250' />|
-## Faces without blood
+### Faces without blood
 |<img src=https://github.com/Monishraj50/Blood_Noblood/blob/master/img/noblood_10.jpg width='250' height='250' />|
 <img src=https://github.com/Monishraj50/Blood_Noblood/blob/master/img/noblood_102.jpg width='250' height='250' />|
 
