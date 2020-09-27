@@ -3,7 +3,7 @@ Detecting the faces with Blood and faces without Blood.
 ## Dataset
 Download the dataset from the below link
 
->       [Download dataset](https://drive.google.com/file/d/1tcdLZymFiw36lzu95zgCAQzudi0Wxma5/view?usp=sharing)
+>[Download dataset](https://drive.google.com/file/d/1tcdLZymFiw36lzu95zgCAQzudi0Wxma5/view?usp=sharing)
 
 The folders are as follows: <br/>
 1. Blood : Faces contaning blood <br/>
@@ -25,7 +25,7 @@ If one of your image files is damaged, you can no longer open it. With a little 
 
 ## Preview of Dataset
 ## Faces with Blood
-![picture](https://github.com/Monishraj50/Blood_Noblood/blob/master/img/blood_1.jpg) ![picture](https://github.com/Monishraj50/Blood_Noblood/blob/master/img/blood_100.jpg)
+![picture](https://github.com/Monishraj50/Blood_Noblood/blob/master/img/blood_1.jpg) | ![picture](https://github.com/Monishraj50/Blood_Noblood/blob/master/img/blood_100.jpg)
 
 
 
