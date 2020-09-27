@@ -2,9 +2,10 @@
 Detecting the faces with Blood and faces without Blood.
 ## Index
    * Downloading the Dataset
-   * Working with Dataset
-   * Detecting the Currupted Images
-   * Preview of Dataset
+   * DataPreprocessing
+     * Working with Dataset
+     * Detecting the Currupted Images
+     * Preview of Dataset
    * Training the Model
    * Evaluating
    
