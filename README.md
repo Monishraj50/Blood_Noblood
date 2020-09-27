@@ -3,7 +3,7 @@ Detecting the faces with Blood and faces without Blood.
 ## Dataset
 Download the dataset from the below link
 
-Download [blood_noblood dataset](https://drive.google.com/file/d/1tcdLZymFiw36lzu95zgCAQzudi0Wxma5/view?usp=sharing)
+[Download dataset](https://drive.google.com/file/d/1tcdLZymFiw36lzu95zgCAQzudi0Wxma5/view?usp=sharing)
 
 The folders are as follows:
 
