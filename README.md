@@ -28,7 +28,7 @@ If one of your image files is damaged, you can no longer open it. With a little 
 ![picture](https://github.com/Monishraj50/Blood_Noblood/blob/master/img/blood_1.jpg) 
 ![picture](https://github.com/Monishraj50/Blood_Noblood/blob/master/img/blood_100.jpg)
 ## Faces without blood
-![picture](https://github.com/Monishraj50/Blood_Noblood/blob/master/img/noblood_1.jpg) 
+![picture](https://github.com/Monishraj50/Blood_Noblood/blob/master/img/noblood_10.jpg) 
 ![picture](https://github.com/Monishraj50/Blood_Noblood/blob/master/img/noblood_102.jpg)
 
 
