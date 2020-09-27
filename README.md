@@ -20,7 +20,7 @@ The folders are as follows: <br/>
  > |--val_noblood <br/>
  
 ## Detecting the Corrupted Images
-Image files can get corrupted when downloaded or imported from cameras and mobile devices. When an image is corrupted, we will not able to open that image.Recontruction <br/>
+Image files can get corrupted when downloaded or imported from cameras and mobile devices. When an image is corrupted, we will not able to open that image.Recontruction
 If one of your image files is damaged, you can no longer open it. With a little luck, however, the JPG can be repaired.
 
 ## Preview of Dataset
