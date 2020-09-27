@@ -11,11 +11,13 @@ The folders are as follows:
 Images
 ### -train
 --train_blood
+
 --train_noblood
+
 ### -val
 --val_blood
+
 --val_noblood
-##
 
 
 
