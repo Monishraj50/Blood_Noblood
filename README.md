@@ -17,6 +17,7 @@ The folders are as follows:
  | -train <br/>
  > |--train_blood <br/>
  > |--train_noblood <br/>
+ 
  | -val <br/>
  > |--val_blood <br/>  
  > |--val_noblood <br/>
